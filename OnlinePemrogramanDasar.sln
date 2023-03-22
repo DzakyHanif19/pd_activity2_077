@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OnlinePemrogramanDasar", "OnlinePemrogramanDasar\OnlinePemrogramanDasar.vcxproj", "{5E1F6E96-8B0C-42A9-B25E-3A0D345254C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tugas2", "Tugas2\Tugas2.vcxproj", "{B733C9D3-FD54-4678-B572-31601438E997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5E1F6E96-8B0C-42A9-B25E-3A0D345254C8}.Release|x64.Build.0 = Release|x64
 		{5E1F6E96-8B0C-42A9-B25E-3A0D345254C8}.Release|x86.ActiveCfg = Release|Win32
 		{5E1F6E96-8B0C-42A9-B25E-3A0D345254C8}.Release|x86.Build.0 = Release|Win32
+		{B733C9D3-FD54-4678-B572-31601438E997}.Debug|x64.ActiveCfg = Debug|x64
+		{B733C9D3-FD54-4678-B572-31601438E997}.Debug|x64.Build.0 = Debug|x64
+		{B733C9D3-FD54-4678-B572-31601438E997}.Debug|x86.ActiveCfg = Debug|Win32
+		{B733C9D3-FD54-4678-B572-31601438E997}.Debug|x86.Build.0 = Debug|Win32
+		{B733C9D3-FD54-4678-B572-31601438E997}.Release|x64.ActiveCfg = Release|x64
+		{B733C9D3-FD54-4678-B572-31601438E997}.Release|x64.Build.0 = Release|x64
+		{B733C9D3-FD54-4678-B572-31601438E997}.Release|x86.ActiveCfg = Release|Win32
+		{B733C9D3-FD54-4678-B572-31601438E997}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
